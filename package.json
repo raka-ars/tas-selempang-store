@@ -2,6 +2,9 @@
   "name": "tas-selempang-store",
   "version": "1.0.0",
   "description": "Website Katalog Lapak Shopee tas.selempang dengan AI Chatbot RAG",
+  "scripts": {
+    "start": "node local-server.js"
+  },
   "dependencies": {
     "groq-sdk": "^0.15.0"
   }
